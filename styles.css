@@ -1,0 +1,14 @@
+*{
+    background-color: antiquewhite;
+}
+
+body{
+    background-color: rgb(214, 129, 129);
+   
+}
+
+button{
+    color: blue;
+    -ms-text-size-adjust: inherit;
+}
+
